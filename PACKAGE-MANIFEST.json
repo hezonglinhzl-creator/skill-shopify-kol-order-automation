@@ -1,11 +1,16 @@
 {
-  "files": 22,
-  "bytes": 175004,
+  "files": 27,
+  "bytes": 184593,
   "entries": [
     {
       "path": ".gitignore",
       "bytes": 527,
       "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/shopify-order-bot/.env.example",
+      "bytes": 160,
+      "sha256": "6d034ccc87a07a8b1bd4643f4ac0e9452c8061aef42c7edd1347e71f16dafe9c"
     },
     {
       "path": "apps/shopify-order-bot/.gitignore",
@@ -38,9 +43,14 @@
       "sha256": "da1f918695e5a4b1dc911e858e720e5320e7f760411543dfcbbca2480ea97178"
     },
     {
+      "path": "apps/shopify-order-bot/README.en.md",
+      "bytes": 2288,
+      "sha256": "fbaca21cf79d3b2502c69003043c8a6d8fa2d8b87e8f50f26ac470e237640302"
+    },
+    {
       "path": "apps/shopify-order-bot/README.md",
-      "bytes": 8187,
-      "sha256": "77e83a70cbc68e8d56177d40d89ecd7b16dfd1e5522744be4beddf34d113d7b4"
+      "bytes": 2235,
+      "sha256": "a78f59ca3cdc895c25b933b3d61e86a934fa5cde599874920905d86f16fc352b"
     },
     {
       "path": "apps/shopify-order-bot/requirements.txt",
@@ -54,8 +64,8 @@
     },
     {
       "path": "apps/shopify-order-bot/up_promote_affiliate_rpa.py",
-      "bytes": 20711,
-      "sha256": "e0ab98ced727f653f839e5871be403e9525d0dc2f7e154e87d71a242dccf7238"
+      "bytes": 20707,
+      "sha256": "deb32cffc2b37b176580be9d911743ab8472fd4b3c03e05b024e6b66a206d142"
     },
     {
       "path": "apps/shopify-order-bot/UPPROMOTE_AFFILIATE_RUNBOOK.md",
@@ -68,9 +78,24 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 4158,
+      "sha256": "4d571d06cddbe2ca98413a376952e948e6c5e714af13a39de58d28401762444e"
+    },
+    {
       "path": "README.md",
-      "bytes": 988,
-      "sha256": "b5368be3b6202604edc1413bc07a54c26eef5e16a9cd0f441138eaba21fc8bff"
+      "bytes": 3991,
+      "sha256": "68ebb38ea4379683e5e52deb259edc4a1605f84b179caf79061e5c6028402e5e"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/README.en.md",
+      "bytes": 3000,
+      "sha256": "f326ebab17cef7e423a94007e10a8ee223bb8e9c8a71b81c565c39a07fe3d5b0"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/README.md",
+      "bytes": 2936,
+      "sha256": "8717fb5aeb41ca7b0da5119c31169b1564ae5f7852632d195b496ceff5ffa3d7"
     },
     {
       "path": "skill/shopify-kol-order-automation/references/adspower-runtime.md",
