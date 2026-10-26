@@ -1,0 +1,116 @@
+{
+  "files": 22,
+  "bytes": 175004,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/shopify-order-bot/.gitignore",
+      "bytes": 127,
+      "sha256": "d3a7ac0d2de52f67ae4d335e4ffc975fb9146c918672d13a4b2731a9c1844e0f"
+    },
+    {
+      "path": "apps/shopify-order-bot/__init__.py",
+      "bytes": 54,
+      "sha256": "cdda2fa904a887e0a18a8ed8c76f05c4223741ef48a8d6ea691ea3bf1c936715"
+    },
+    {
+      "path": "apps/shopify-order-bot/adspower_client.py",
+      "bytes": 6636,
+      "sha256": "7b7e8aadedbe5c1cc89e0aa6627c0dd975ec88a1cf47da5e53291d203bd3859b"
+    },
+    {
+      "path": "apps/shopify-order-bot/config.py",
+      "bytes": 3670,
+      "sha256": "4bddb3f363483fabd12df8fa5463a22f3b734be43ef5d8c6500ed344fcfa3c13"
+    },
+    {
+      "path": "apps/shopify-order-bot/excel_reader.py",
+      "bytes": 15046,
+      "sha256": "4775fa8a66d2531e3a4ddae6226b8aa16787cc0b729f8117f4338536f5c542a5"
+    },
+    {
+      "path": "apps/shopify-order-bot/main.py",
+      "bytes": 9537,
+      "sha256": "da1f918695e5a4b1dc911e858e720e5320e7f760411543dfcbbca2480ea97178"
+    },
+    {
+      "path": "apps/shopify-order-bot/README.md",
+      "bytes": 8187,
+      "sha256": "77e83a70cbc68e8d56177d40d89ecd7b16dfd1e5522744be4beddf34d113d7b4"
+    },
+    {
+      "path": "apps/shopify-order-bot/requirements.txt",
+      "bytes": 80,
+      "sha256": "96809e680d2c50f216d18ef801c411b9a02ce17a4a4081059b2855706ccb4386"
+    },
+    {
+      "path": "apps/shopify-order-bot/shopify_browser.py",
+      "bytes": 74859,
+      "sha256": "0a08d6c9759601671e4ee2ae4bf6ec599dacdfc983aecf14bd3c141497491178"
+    },
+    {
+      "path": "apps/shopify-order-bot/up_promote_affiliate_rpa.py",
+      "bytes": 20711,
+      "sha256": "e0ab98ced727f653f839e5871be403e9525d0dc2f7e154e87d71a242dccf7238"
+    },
+    {
+      "path": "apps/shopify-order-bot/UPPROMOTE_AFFILIATE_RUNBOOK.md",
+      "bytes": 1482,
+      "sha256": "50af474c9fc12825497fadd850940a6a1ea0ee556cf3b0ec6ca6a0be0e625740"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 988,
+      "sha256": "b5368be3b6202604edc1413bc07a54c26eef5e16a9cd0f441138eaba21fc8bff"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/references/adspower-runtime.md",
+      "bytes": 3065,
+      "sha256": "efcb66e3aa3371edaf2f33b26b7baac4c6c8c7a1a63a76318b08bad7f53e8034"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/references/contract-extraction.md",
+      "bytes": 2342,
+      "sha256": "b42793e31684180e2d16354208331e201709bdd8a030c4861016f2246b853896"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/references/data-contract.md",
+      "bytes": 6345,
+      "sha256": "ed67dc24594dd419ad0cdaf709a8bcc82928110e1503252366fe2d86dcf729ca"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/references/operating-checklist.md",
+      "bytes": 4305,
+      "sha256": "fa6acfdf2bc664dda0adc882ef9254aade916ea9a26e589a732ea17bd1e70f47"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/references/shipping-evidence-gate.md",
+      "bytes": 2291,
+      "sha256": "56d4d1d22c52e5f0ac2d7b703b73939f2b99ff7cd738079b18e96ad3964bcb85"
+    },
+    {
+      "path": "skill/shopify-kol-order-automation/SKILL.md",
+      "bytes": 13906,
+      "sha256": "914dac1b87d68bd654941f805f5e835f006b5b64629e1c498559eea63d16a995"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
