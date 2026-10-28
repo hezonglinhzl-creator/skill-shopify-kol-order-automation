@@ -1,11 +1,11 @@
 {
   "files": 27,
-  "bytes": 184593,
+  "bytes": 187882,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/shopify-order-bot/.env.example",
@@ -74,18 +74,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 4158,
-      "sha256": "4d571d06cddbe2ca98413a376952e948e6c5e714af13a39de58d28401762444e"
+      "bytes": 4448,
+      "sha256": "5cb7aebb03706cfbfee10ad05bfde7ada86519d7d549c2c0b97d7c574df9d495"
     },
     {
       "path": "README.md",
-      "bytes": 3991,
-      "sha256": "68ebb38ea4379683e5e52deb259edc4a1605f84b179caf79061e5c6028402e5e"
+      "bytes": 4227,
+      "sha256": "2a044c1e399944b5659d2d7421aacd4a01592e0d3d0b07d972a1d5ff7fdc155e"
     },
     {
       "path": "skill/shopify-kol-order-automation/README.en.md",
@@ -124,8 +124,8 @@
     },
     {
       "path": "skill/shopify-kol-order-automation/SKILL.md",
-      "bytes": 13906,
-      "sha256": "914dac1b87d68bd654941f805f5e835f006b5b64629e1c498559eea63d16a995"
+      "bytes": 14951,
+      "sha256": "e3355eb735d2a64a8547b75b7f81508df217d981c3ccd976050dc0da5527a17d"
     },
     {
       "path": "安装Skill.cmd",
